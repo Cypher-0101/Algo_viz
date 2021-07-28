@@ -23,3 +23,5 @@ This application supports the following algorithms:
 **Depth-first Search** (unweighted): a very bad algorithm for pathfinding; does not guarantee the shortest path
 
 On top of the pathfinding algorithms listed above, Implementation of a **Recursive Division** Maze Generation algorithm has been done.
+
+### New Algorithms Will Be Updated Soon.
