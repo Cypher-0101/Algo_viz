@@ -24,4 +24,4 @@ This application supports the following algorithms:
 
 On top of the pathfinding algorithms listed above, Implementation of a **Recursive Division** Maze Generation algorithm has been done.
 
-### New Algorithms Will Be Updated Soon.
+
